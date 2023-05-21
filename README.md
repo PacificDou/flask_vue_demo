@@ -55,7 +55,7 @@ npm install
 
 2. Try (make sure the backend server is running)
 ```sh
-npm run dev -- --port 12801 --host 0.0.0.0
+npm run dev -- --host 0.0.0.0
 ```
 Now use your browser to access http://localhost:12801/
 
